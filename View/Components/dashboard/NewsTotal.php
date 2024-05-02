@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\News\View\Components\dashboard\news;
+namespace Modules\News\View\Components\dashboard;
 
 use App\Contracts\extension\dashboard\DashboardComponent;
 
